@@ -1,31 +1,38 @@
 [  
   {
    "title":"Literature",
-   "path":"literature"
+   "path":"literature",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/literature.png"
   },
   {
    "title":"Business",
-   "path":"business"
+   "path":"business",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/business.png"
   },
   {
    "title":"Entertainment",
-   "path":"entertainment"
+   "path":"entertainment",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/entertainment.png"
   },
   {
    "title":"Athletics",
-   "path":"athletics"
+   "path":"athletics",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/athletics.png"
   },
   {
    "title":"Social Activist",
-   "path":"socialactivist"
+   "path":"socialactivist",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/socialactivist.png"
   },
   {
    "title":"STEM",
-   "path":"stem"
+   "path":"stem",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/stem.png"
   },
   {
    "title":"Politics",
-   "path":"politics"
+   "path":"politics",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/politics.png"
   }
   
 ] 
