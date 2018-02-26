@@ -7,7 +7,7 @@
    "occupation":"Sheryl Kara Sandberg is an American technology executive, activist, and author. She holds the title of chief operating officer for Facebook . She is also the founder of Leanin.org.",
    "achievements":"Sheryl had founded Lean In, which is a non-profit named after her bestselling book, to support women's empowerment. She spent 6 years as a vice president at Google, where she developed its lucrative online advertising programs. Sandberg started working at Facebook in 2008, when she was 38 years old. When she joined under the title of “director,” she was granted .1% of the company. That means that when Facebook begins to trade on Wall Street later this year, she will became one of the richest self-made women in the world. She just bought a house down the street from Facebook, and she’s going to stay there, at least, for the time being. In 2011, Forbes listed her as the fifth most powerful woman in the world.",
    "images":[
-      "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ab9dfcd148d9f69f83aaccb02be004a54fab65e9_254x191.jpg?",
+      "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ab9dfcd148d9f69f83aaccb02be004a54fab65e9_254x191.jpg",
       "https://timedotcom.files.wordpress.com/2017/04/sandberg_optionb_opener_desktop.jpg"
    ],
    "urls":{
@@ -24,8 +24,9 @@
    "occupation":"Ellen was an American engineer and former astronaut. Currently, she is the Director of the Johnson Space Center.",
    "achievements":"Ellen Ochoa received her master of science and doctorate degrees at Stanford University. In 1990, NASA selected her. The next year, became the world's first Hispanic female astronaut. Ochoa's numerous awards include NASA's Exceptional Service Medal (1997), Outstanding Leadership Medal (1995), and Space Flight Medals (2002, 1999, 1994, 1993). Ellen has worked in Sandia National Laboratories, Livermore, CA. Also, she is a member of the Presidential Commission on the Celebration of Women in American History.",
    "images":[
-      "http://www.spaceacts.com/starship/seh/ochoa.jpg",
-      "https://www.biography.com/.image/t_share/MTE5NDg0MDU1MjM2NzQwNjIz/ellen-ochoa-10413023-1-402.jpg"
+      "https://www.biography.com/.image/t_share/MTE5NDg0MDU1MjM2NzQwNjIz/ellen-ochoa-10413023-1-402.jpg",
+      "http://www.spaceacts.com/starship/seh/ochoa.jpg"
+      
    ],
    "urls":{
       "website":"https://www.nasa.gov/centers/johnson/about/people/orgs/bios/ochoa.html",
@@ -77,8 +78,9 @@
    "occupation":"Mae is  an American engineer, physician and NASA astronaut. Mae was born on October 17, 1956, the youngest child of Charlie Jemison and Dorothy Green. Her father was a maintenance supervisor for a charity organization, and her mother worked most of her career as an elementary school teacher of English and math at the Beethoven School in Chicago.",
    "achievements":"Mae was the first African-American woman to travel in space when she went into orbit aboard the Space Shuttle Endeavour on September 12, 1992. The special honors that Mae has received include National Achievement Scholarship (1973-1977), Stanford representative to Carifesta '76 in Jamaica, 1979 CIBA Award for Student Involvement, American Medical Student Association (AMSA) study group to Cuba, grant from International Travelers Institute for health studies in rural Kenya (1979), etc. The Mae C. Jemison Academy, an alternate public school, was established in 1992 in Detroit, Michigan.",
    "images":[
-      "http://www.notablebiographies.com/images/uewb_06_img0373.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mae_Jemison_in_Space.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mae_Jemison_in_Space.jpg",
+      "http://www.notablebiographies.com/images/uewb_06_img0373.jpg"
+
    ],
    "urls":{
       "website":"https://www.jsc.nasa.gov/Bios/htmlbios/jemison-mc.html",
@@ -130,8 +132,8 @@
    "occupation":"Marie Stopes was a British author, palaeobotanist and campaigner for eugenics and women's rights. She was a British scientist and writer who became an active proponent of sexual education and birth control in the early twentieth century.",
    "achievements":"Marie Stopes had created many books on sex, love, and marriage. She was the very first female academic on the faculty of the University of Manchester and she was one of the founders the first birth control clinic in Britain.",
    "images":[
-      "http://www.nndb.com/people/572/000024500/marie-stopes-1.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory,_1904.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory,_1904.jpg",
+      "http://www.nndb.com/people/572/000024500/marie-stopes-1.jpg"
    ],
    "urls":{
       "website":"https://www.mariestopes.org",
