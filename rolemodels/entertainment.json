@@ -53,6 +53,43 @@
       "website":"http://www.aliwong.com/",
       "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
    }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
   }
 
 ]
