@@ -90,6 +90,916 @@
       "imdb":"http://www.imdb.com/name/nm0680983/",
       "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
    }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
+  },  {
+   "name":"Beyonce",
+   "ethnicity":"American, distant Irish and Spanish",
+   "birthdate":"September 4, 1981",
+   "birth_place":"Houston, Texas",
+   "occupation":"Beyonce Knowles’s professions consist of acting, modeling, singing, songwriting, and a composer. She had previously been in an all female music group called Destiny’s Child alongside with Kelly Rowland and Michelle Williams during the late 1990s-early 2000s. Her father Matthew Knowles, was the band manager. They landed their record deal in 1997 to Columbia records. After a while Knowles had began a solo career. Still successfully doing so Beyonce has blown up throughout the music industry, creating recent albums such as Lemonade (2016), B’Day (2006), Drunk in Love (2014), and etc.",
+   "achievements":"These past few years Knowles has achieved many awards in her music career. Knowles has won a total of 282 awards and attained 816 nominations. She had a Grammy award for Best song of the Year, Grammy award for Best Music Video, BET awards for Best Music Video of the year, and many more awards that has led her to be the successful woman she is today.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Beyonce.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sing.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/bey.jpg"
+   ],
+   "urls":{
+      "website":"http://www.beyonce.com",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+      "biography":"https://www.biography.com/people/beyonce-knowles-39230"
+   }
+  },
+
+  {
+   "name":"Kehlani",
+   "ethnicity":"Black, White, Native American, Spanish, and Filipino",
+   "birthdate":"April 24, 1995",
+   "birth_place":"Oakland, California",
+   "occupation":"Kehlani Ashley Parrish is an American singer, songwriter and dancer who is currently signed to Atlantic Records. Kehlani is originally from Oakland, California where she achieved initial fame as a member of the teen pop group Poplyfe.",
+   "achievements":"Kehlani was nominated for the Centric Award and the Best Female R&B/Pop Artist.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ke.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ksingv.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/kehh.jpg"
+   ],
+   "urls":{
+      "website":"http://kehlanimusic.com/sweetsexysavage/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kehlani",
+      "biography":"http://www.kehlanimusic.com/bio/"
+   }
+  },
+
+  {
+   "name":"Ali Wong",
+   "ethnicity":"American",
+   "birthdate":"April 19, 1982",
+   "birth_place":"San Francisco, California",
+   "occupation":"Alexandra \"Ali\" Wong is an American actress, stand-up comic, and writer.She is noted for her Netflix stand-up special Baby Cobra, as well as her television appearances in American Housewife, Are You There, Chelsea?, Inside Amy Schumer, and Black Box. She also wrote on the first three seasons of the sitcom Fresh Off the Boat.",
+   "achievements":"She was one of the few select female comedians to be \"passed\" at the Comedy Cellar.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/wong.png",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/aliwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ali.jpg"
+   ],
+   "urls":{
+      "website":"http://www.aliwong.com/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ali_Wong"
+   }
+  },
+
+  {
+   "name":"Nura Afia",
+   "ethnicity":"Moroccan and Swiss-Lebanese",
+   "birthdate":"February 9, 1993",
+   "birth_place":"Aurora, Colorado",
+   "occupation":"Nura Afia is an American beauty vlogger. In November 2016, CoverGirl cosmetics company named her one of its brand ambassadors.",
+   "achievements":"Nura is CoverGirl’s first brand ambassador who wears a hijab.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nura.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nur.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/nurrr.jpg"
+   ],
+   "urls":{
+      "youtube":"https://www.youtube.com/user/Babylailalov/videos",
+      "wikipedia":"https://en.wikipedia.org/wiki/Nura_Afias",
+      "instagram":"https://www.instagram.com/nuralailalov"
+   }
+  },
+
+  {
+   "name":"Ellen Page",
+   "ethnicity":"Canadian",
+   "birthdate":"February 21, 1987",
+   "birth_place":"Halifax, Nova Scotia",
+   "occupation":"Ellen Grace Philpotts-Page, known professionally as Ellen Page, is a Canadian actress. Her career began with roles in Canadian television shows including Pit Pony, Trailer Park Boys, and ReGenesis",
+   "achievements":"She is a versatile actress; her performance has won her accolades in several movies including The Wet Season, Marion Bridge, Touch & Go, Love That Boy, Wilby Wonderful, Hard Candy, Mouth to Mouth, X-Men: The Last Stand, An American Crime, Juno, The Tracey Fragments, The Stone Angel, Smart People, Whip It, Inception and X-Men: Days of the Future Past.",
+   "images":[
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenp.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellenwork.jpg",
+      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/ellem.jpg"
+   ],
+   "urls":{
+      "imdb":"http://www.imdb.com/name/nm0680983/",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+   }
   }
 
 ]
