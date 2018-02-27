@@ -1,0 +1,35 @@
+[  
+  {
+   "name":"J.K. Rowling",
+   "ethnicity":"British",
+   "birthdate":"July 31, 1965",
+   "birth_place":"New York City, New York",
+   "occupation":"J.K. Rowling,who writes under the pen names J. K. Rowling and Robert Galbraith, is a British novelist and screenwriter who wrote the Harry Potter fantasy series. The books have won multiple awards, and sold more than 400 million copies. They have become the best-selling book series in history and been the basis for a series of films, over which Rowling had overall approval on the scripts and was a producer on the final films in the series.",
+   "achievements":"Rowling has received honorary degrees from St Andrews University, the University of Edinburgh, Edinburgh Napier University, the University of Exeter which she attended, the University of Aberdeen and Harvard University, for whom she spoke at the 2008 commencement ceremony. In 2009 Rowling was made a Chevalier de la Légion d'honneur by French President Nicolas Sarkozy. In 2011 Rowling became an honorary Fellow of the Royal College of Physicians of Edinburgh.",
+   "images":[
+      "https://thefreshtoast.com/wp-content/uploads/2017/05/gossip-j-k-rowling-1.jpg",
+      "https://media1.popsugar-assets.com/files/thumbor/RqrXHPElDWkar9Y9UJIBiaRq_6o/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/03/06/007/n/1922283/721ab9b5edea96de_GettyImages-623392352.jpg",  
+      "https://hulshofschmidt.files.wordpress.com/2011/12/jk-rowling-harry-potter.jpg"
+   ],
+   "urls":{
+      "biography":"https://www.biography.com/people/jk-rowling-40998"
+   }
+  },
+
+  {
+   "name":"Audre Lorde",
+   "ethnicity":"African American",
+   "birthdate":"February 18, 1934 ",
+   "birth_place":"New York City, New York",
+   "deceased_on":"November 17, 1992",
+   "occupation":"Audre Lorde was a writer, feminist, womanist, and civil rights activist. As a poet, she is best known for technical mastery and emotional expression, as well as her poems that express anger and outrage at civil and social injustices she observed throughout her life. Her poems and prose largely deal with issues related to civil rights, feminism, and the exploration of black female identity. In relation to non-intersectional feminism in the United States, Lorde famously said, \"Those of us who stand outside the circle of this society's definition of acceptable women; those of us who have been forged in the crucibles of difference -- those of us who are poor, who are lesbians, who are Black, who are older -- know that survival is not an academic skill. It is learning how to take our differences and make them strengths. For the master's tools will never dismantle the master's house. They may allow us temporarily to beat him at his own game, but they will never enable us to bring about genuine change. And this fact is only threatening to those women who still define the master's house as their only source of support.",
+   "achievements":"Audre Lorde was awarded the American Award and the Lambda Literary award for Lesbian Poetry. The American Book Award is an American literary award that annually recognizes a set of books and people for \"outstanding literary achievement.\" She was given the Literary award for Lesbian Poetry for the amazing poems that she wrote and books she has written pertaining to LGBT.",
+   "images":[
+      "http://1.bp.blogspot.com/--UJxxUoBMRg/UaewOWat6UI/AAAAAAAAAYY/Sw6QCuxoWAw/s1600/Audre+Lorde.jpg",
+      "https://flavorwire.files.wordpress.com/2014/02/audre-lorde-portrait.jpg"
+   ],
+   "urls":{
+      "biography":"https://alp.org/about/audre%22"
+   }
+  }
+]

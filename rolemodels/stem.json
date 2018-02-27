@@ -1,0 +1,145 @@
+[
+  {
+   "name":"Sheryl Sandberg",
+   "ethnicity":"Ashkenazi Jewish",
+   "birthdate":"August 28, 1969",
+   "birth_place":"Washington, D.C.",
+   "occupation":"Sheryl Kara Sandberg is an American technology executive, activist, and author. She holds the title of chief operating officer for Facebook . She is also the founder of Leanin.org.",
+   "achievements":"Sheryl had founded Lean In, which is a non-profit named after her bestselling book, to support women's empowerment. She spent 6 years as a vice president at Google, where she developed its lucrative online advertising programs. Sandberg started working at Facebook in 2008, when she was 38 years old. When she joined under the title of “director,” she was granted .1% of the company. That means that when Facebook begins to trade on Wall Street later this year, she will became one of the richest self-made women in the world. She just bought a house down the street from Facebook, and she’s going to stay there, at least, for the time being. In 2011, Forbes listed her as the fifth most powerful woman in the world.",
+   "images":[
+      "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ab9dfcd148d9f69f83aaccb02be004a54fab65e9_254x191.jpg",
+      "https://timedotcom.files.wordpress.com/2017/04/sandberg_optionb_opener_desktop.jpg"
+   ],
+   "urls":{
+      "wikipedia":"https://en.wikipedia.org/wiki/Sheryl_Sandberg",
+      "biography":"https://www.biography.com/people/sheryl-sandberg"
+   }
+  },
+
+{
+   "name":"Ellen Ochoa",
+   "ethnicity":"Hispanic- American",
+   "birthdate":"May 10, 1958",
+   "birth_place":"Los Angeles, California",
+   "occupation":"Ellen was an American engineer and former astronaut. Currently, she is the Director of the Johnson Space Center.",
+   "achievements":"Ellen Ochoa received her master of science and doctorate degrees at Stanford University. In 1990, NASA selected her. The next year, became the world's first Hispanic female astronaut. Ochoa's numerous awards include NASA's Exceptional Service Medal (1997), Outstanding Leadership Medal (1995), and Space Flight Medals (2002, 1999, 1994, 1993). Ellen has worked in Sandia National Laboratories, Livermore, CA. Also, she is a member of the Presidential Commission on the Celebration of Women in American History.",
+   "images":[
+      "https://www.biography.com/.image/t_share/MTE5NDg0MDU1MjM2NzQwNjIz/ellen-ochoa-10413023-1-402.jpg",
+      "http://www.spaceacts.com/starship/seh/ochoa.jpg"
+      
+   ],
+   "urls":{
+      "website":"https://www.nasa.gov/centers/johnson/about/people/orgs/bios/ochoa.html",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Ochoa",
+      "biography":"https://www.biography.com/people/ellen-ochoa-10413023"
+   }
+  },
+  
+  {
+   "name":"Ada Lovelace",
+   "ethnicity":"British",
+   "birthdate":"December 10, 1815",
+   "birth_place":"London, Europe",
+   "occupation":"Ada Lovelace was an English mathematician and writer. She was mainly known for her work on Charles Babbage's proposed mechanical general-purpose computer, which is known as the Analytical Engine.",
+   "achievements":"Ada wrote one of the world’s earliest algorithm for the ‘Analytical Engine’, which told the machine to calculate 'Bernoulli numbers'. Ada Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in Faster Than Thought: A Symposium on Digital Computing Machines in 1953. Since then, Ada has received many posthumous honors for her work. In 1980, the U.S. Department of Defense named a newly developed computer language ‘Ada,’ after Lovelace.",
+   "images":[
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg",
+      "http://images.mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/ada_byron_aged_seventeen_1832.jpg"
+   ],
+   "urls":{
+      "wikipedia":"https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "biography":"https://www.biography.com/people/ada-lovelace-20825323"
+   }
+  },
+  
+  {
+   "name":"Grace Hopper",
+   "ethnicity":"Scottish and Dutch",
+   "birthdate":"December 9, 1906",
+   "birth_place":"New York City, New York",
+   "occupation":"Grace Hopper was known for contributing to the Common Business Oriented Language  for business applications. Hopper was also a Navy lieutenant that programmed an early calculating machine toward her creation of software for microcomputers. She joined the U.S Naval Reserve in 1944, attending the Bureau of Ships Computation Project at Harvard University. Directed by Howard Aiken, this project was set up to assist the navy for making complex computations that pertained to the mine field.",
+   "achievements":"In 1962, Hopper was elected to the Institute of Electrical and Electronics Engineers (IEEE) and to the American Association of Advancement of Science (AAAS) in 1963. Hopper was also awarded the Society of Women Engineers Achievement in 1964. In the same year she was appointed staff scientist of system programming in  the division of UNIVAC (Universal Automatic Computer) Division.  Some of the awards that Hopper has won were the Presidential Medal of Freedom, National Medal of Technology and Innovation, and the IEEE Emanuel R. Piore Award.",
+   "images":[
+      "https://www.biography.com/.image/t_share/MTE5NTU2MzE2NjYxNTE1Nzg3/grace-hopper-21406809-1-402.jpg",
+      "https://s3.amazonaws.com/quotabelle/authors/grace-hopper/hopper-tech.jpg"
+   ],
+   "urls":{
+      "website":"https://ghc.anitab.org",
+      "wikipedia":"https://en.wikipedia.org/wiki/Grace_Hopper",
+      "biography":"https://www.biography.com/people/grace-hopper-21406809"
+   }
+  },
+  
+  {
+   "name":"Mae Carol Jemison",
+   "ethnicity":"American",
+   "birthdate":"October 17, 1956",
+   "birth_place":"Decatur, Alabama",
+   "occupation":"Mae is  an American engineer, physician and NASA astronaut. Mae was born on October 17, 1956, the youngest child of Charlie Jemison and Dorothy Green. Her father was a maintenance supervisor for a charity organization, and her mother worked most of her career as an elementary school teacher of English and math at the Beethoven School in Chicago.",
+   "achievements":"Mae was the first African-American woman to travel in space when she went into orbit aboard the Space Shuttle Endeavour on September 12, 1992. The special honors that Mae has received include National Achievement Scholarship (1973-1977), Stanford representative to Carifesta '76 in Jamaica, 1979 CIBA Award for Student Involvement, American Medical Student Association (AMSA) study group to Cuba, grant from International Travelers Institute for health studies in rural Kenya (1979), etc. The Mae C. Jemison Academy, an alternate public school, was established in 1992 in Detroit, Michigan.",
+   "images":[
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mae_Jemison_in_Space.jpg",
+      "http://www.notablebiographies.com/images/uewb_06_img0373.jpg"
+
+   ],
+   "urls":{
+      "website":"https://www.jsc.nasa.gov/Bios/htmlbios/jemison-mc.html",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mae_Jemison",
+      "biography":"https://www.biography.com/people/mae-c-jemison-9542378"
+   }
+  },
+  
+  {
+   "name":"Katherine Johnson",
+   "ethnicity":"American",
+   "birthdate":"August 26, 1918",
+   "birth_place":"White Sulphur Springs, West Virginia",
+   "occupation":"Katherine Coleman Goble Johnson is an African-American physicist and mathematician who made contributions to the United States' aeronautics and space programs. She is known for her early application of digital electronic computers at NASA.",
+   "achievements":"Katherine was one of the 3 students picked to be the first black students to be offered spots at West Virginia University. She has also played a part in creating the first American Human Spaceship. She also received the honor of being the first woman in the Flight Research Division who had received credit as an author of a research report.Johnson began working for NACA in 1953. In 1962, President John F. Kennedy charged the country to send a man to the moon. Johnson became part of the team. She started her work on calculating the trajectory for America’s first space trip with Alan Shepherd’s 1961 mission. She continued on to do the calculations for the first actual moon landing in 1969.",
+   "images":[
+      "https://www.nasa.gov/sites/default/files/thumbnails/image/johnsonk.jpg",
+      "https://static1.squarespace.com/static/54d81455e4b0ed3e694933d1/54d81603e4b0ba465b77b880/5516fee7e4b0570dfe1c799b/1427570442502/?format=1000w"
+   ],
+   "urls":{
+      "website":"https://www.nasa.gov/content/katherine-johnson-biography",
+      "wikipedia":"https://en.wikipedia.org/wiki/Katherine_Johnson",
+      "biography":"https://www.biography.com/people/katherine-g-johnson-101016"
+   }
+  },
+  
+  {
+   "name":"Mildred Dresselhaus",
+   "ethnicity":"American",
+   "birthdate":"November 11, 1930",
+   "birth_place":"Brooklyn, New York",
+   "occupation":"Mildred was a professor,engineer, and a physicist. She was the first female Institute Professor and professor emerita of physics and electrical engineering at the Massachusetts Institute of Technology.",
+   "achievements":"She has received the IEEE Medal of Honor, Enrico Fermi Award, L'Oréal-UNESCO Awards for Women in Science, and the National Medal of Science for Engineering..Amid public debate over the capacity of women to thrive in a scientific environment, Dr. Dresselhaus’s esteemed career provides a decisive and resounding answer. Her quiet leadership and generous mentorship, being role model to countless women over the years, has had a profound impact on the scientific opportunities that are available to women today.",
+   "images":[
+      "https://www.nsf.gov/news/special_reports/medalofscience50/images/dresselhaus1_h.jpg",
+      "https://www.physics.umn.edu/events/vanvleck/bios/Dresselhaus.jpg"
+   ],
+   "urls":{
+      "wikipedia":"https://en.wikipedia.org/wiki/Mildred_Dresselhaus",
+      "article":"https://www.nytimes.com/2017/02/23/science/mildred-dresselhaus-dead-queen-of-carbon.html"
+   }
+  },
+  
+  {
+   "name":"Marie Stopes",
+   "ethnicity":"Mainly British and Scottish",
+   "birthdate":"October 15, 1880",
+   "birth_place":"Edinburgh",
+   "occupation":"Marie Stopes was a British author, palaeobotanist and campaigner for eugenics and women's rights. She was a British scientist and writer who became an active proponent of sexual education and birth control in the early twentieth century.",
+   "achievements":"Marie Stopes had created many books on sex, love, and marriage. She was the very first female academic on the faculty of the University of Manchester and she was one of the founders the first birth control clinic in Britain.",
+   "images":[
+      "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory,_1904.jpg",
+      "http://www.nndb.com/people/572/000024500/marie-stopes-1.jpg"
+   ],
+   "urls":{
+      "website":"https://www.mariestopes.org",
+      "wikipedia":"https://en.wikipedia.org/wiki/Marie_Stopes",
+      "biography":"http://www.bbc.co.uk/history/historic_figures/stopes_marie_carmichael.shtml"
+   }
+  }
+
+]
