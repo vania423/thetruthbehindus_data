@@ -8,11 +8,21 @@
    "title":"Athletics",
    "path":"athletics",
    "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/athletics.png"
+  },  
+  {
+   "title":"Business",
+   "path":"business",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/business.png"
   },
   {
    "title":"STEM",
    "path":"stem",
    "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/stem.png"
+  },
+{
+   "title":"Social Activism",
+   "path":"socialactivist",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/socialactivist.png"
   },
   {
    "title":"Politics",
