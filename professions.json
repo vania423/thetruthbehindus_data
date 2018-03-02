@@ -28,6 +28,11 @@
    "title":"Politics",
    "path":"politics",
    "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/politics.png"
+  },
+  {
+   "title":"You",
+   "path":"you",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/you.png",
   }
   
 ] 
