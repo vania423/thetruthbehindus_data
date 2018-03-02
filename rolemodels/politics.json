@@ -6,7 +6,7 @@
 		"occupation": "Aya Kamikawa is a municipal official, the first openly transgender person to seek or win elected office in Japan. She was elected in April 2003.Kamikawa, then a 35-year-old writer, submitted her election application papers with a blank space for sex",
 		"achievements": "Kamikawa held her position of being the first transgender in the elected office of Japan from the years of 2007 to 2017.",
 		"images": [
-			"https://www.japantimes.co.jp/wp-content/uploads/2013/01/fl20111120x2a-200x200.jpg"
+			"https://www.japantimes.co.jp/wp-content/uploads/2013/01/fl20111120x2a-200x200.jpg",
 			"http://www.google.com/search?q=aya+kamikawa&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiV9tXqjbHZAhWKt1kKHQ1YBB4Q_AUICygC&biw=1163&bih=722#imgrc=np1esDmOzg02rM:"
 		],
 		"urls": {
@@ -88,7 +88,7 @@
 		"occupation": "Omar is a politician located in Minnesota.She had also partaked in the Democratic–Farmer–Labor Party member, causing her to become the first Somali woman to be a part of U.S.A's government. ",
 		"achievements": "Omar had won the awards the Democratic–Farmer–Labor Party's Women's Hall of Fame and the Community Leadership Award at the African Awards.",
 		"images": [
-			"https://www.twincities.com/wp-content/uploads/2017/09/ilhan-omar-time-magazine-cover.jpg"
+			"https://www.twincities.com/wp-content/uploads/2017/09/ilhan-omar-time-magazine-cover.jpg",
 			"https://www.house.leg.state.mn.us/hinfo/memberimgls90/60B.JPG"
 		],
 		"urls": {
@@ -169,14 +169,15 @@
 		"birth_place": "Bronx, New York City",
 		"occupation": "Sotomayor is an Associate Justice of the Supreme Court of the United State. She is also U.S.A's first Hispanic U.S. Supreme Court Associate justice.",
 		"achievements": "Sonia's greatest achievement is being the first of Hispanic heritage, the first Latina, third female, and twelfth Roman Catholic justice.",
-		"images":[  
-		    "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTM5NTg5Mzg2NDIwMzY0ODA2/sonia-sotomayor-official-portraitjpg.jpg"
-	],
-	"urls": {
-		"website": "https://www.oyez.org/justices/sonia_sotomayor",
-		"wiki": "https://en.wikipedia.org/wiki/Sonia_Sotomayor",
-		"biography": "https://www.biography.com/people/sonia-sotomayor-453906"
+		"images": [
+			"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTM5NTg5Mzg2NDIwMzY0ODA2/sonia-sotomayor-official-portraitjpg.jpg"
+		],
+		"urls": {
+			"website": "https://www.oyez.org/justices/sonia_sotomayor",
+			"wiki": "https://en.wikipedia.org/wiki/Sonia_Sotomayor",
+			"biography": "https://www.biography.com/people/sonia-sotomayor-453906"
+
+		}
 
 	}
-
-}]
+]
