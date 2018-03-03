@@ -32,4 +32,120 @@
       "biography":"https://alp.org/about/audre%22"
    }
   }
+  
+  {
+ "name":"Isabel Allende ",
+   "ethnicity":" Chilean",
+   "birthdate":"August 2, 1942",
+   "birth_place":"Lima Peru ",
+   "occupation":"Allende is an author who is dubbed to be the world's most widely read Spanish-language author.",
+   "achievements":"Allende had earned many awards due to her books. ",
+   "images":[
+      " https://literary-arts.org/wp-content/uploads/2015/05/allende.jpeg"
+   ],
+   "urls":{
+      "biography":"https://www.isabelallende.com/"
+   }
+  }
+  {
+  "name":" Alice Walker",
+    "ethnicity":"  African American",
+   "birthdate":"February 9, 1944",
+   "birth_place":" Putman Country, Georgia ",
+   "occupation":"Alice Malsenior Walker is an American novelist, short story writer, poet, and activist.",
+   "achievements":"Walker has won the Pulitzer Prize for Fiction, Guggenheim Fellowship for Creative Arts,and the National Book Award for Fiction.",
+   "images":[
+      "http://www.cew.umich.edu/sites/default/files/resize/u122/sp11528_0_0-400x284.png "
+   ],
+   "urls":{
+      "biography":"https://www.britannica.com/biography/Alice-Walker"
+   }
+  }  
+{
+  "name":"Tarereh Mafi",
+  
+   "ethnicity":" Iranian American",
+   "birthdate":" November 9, 1988",
+   "birth_place":"Connecticut",
+   "occupation":"Tahereh Mafi the author of the New York Times bestselling trilogy,The Shatter Me series and Futhermore novel ",
+   "achievements":"Mafi has written five books so far, all recieving world-wide fame for her narrations of the stories. ",
+   "images":[
+      "http://www.taherehbooks.com/wp-content/uploads/2014/11/Tahereh-8-e1467787485200.jpg "
+   ],
+   "urls":{
+      "biography":"www.taherehbooks.com/"
+   }
+  }  
+{
+  "name":"Renee Ahdieh ",
+   "ethnicity":"South- Korean ",
+   "birthdate":"Unknown",
+   "birth_place":"Unknown",
+   "occupation":"Ahdieh is an South-Korean author, mainly known for her young adult retelling duologies: The Wrath and The Dawn and the Flame in the Mist ",
+   "achievements":"The creation of  her books The Wrath and The Dawn, The Rose and The Dagger, and The Flame in The Mist",
+   "images":[
+      "https://images.gr-assets.com/authors/1487663209p8/4600197.jpg "
+     
+   ],
+   "urls":{
+      "biography":"http://www.reneeahdieh.com"
+   }
+  }  
+{
+"name":"Sabaa Tahir ",
+   "ethnicity":"Pakistani- American",
+   "birthdate":"Unknown",
+   "birth_place":"New York City",
+   "occupation":" Sabaa Tahir is a young-adult fiction writer, who is best known for her latest series: An Ember in the Ashes. ",
+   "achievements":"The creation of  her books Ember in the Ashes and Torch Against the Night ",
+   "images":[
+      " https://images.gr-assets.com/authors/1390501945p8/7770873.jpg"
+   ],
+   "urls":{
+      "biography":"http://www.teenreads.com/authors/sabaa-tahir"
+   }
+  }  
+{
+  "name":"Chimamanda Ngozi Adichie ",
+   "ethnicity":"Nigerian ",
+   "birthdate":"September 15, 1977 ",
+   "birth_place":"Enugu, Nigeria",
+   "occupation":"Chimamanda Ngozi Adichie is an author, well known for her ",
+   "achievements":"She was awarded a MacArthur Genius Grant.",
+   "images":[
+      "https://cdn.vox-cdn.com/thumbor/amIbDTg-TOPlyIsNSnZFEU5SL6I=/0x0:2000x1500/1320x743/filters:focal(909x335:1229x655):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/51961413/No7_Chimamanda_Campaign_Image.0.1479851259.jpeg"
+   ],
+   "urls":{
+      "biography":"http://www.cerep.ulg.ac.be/adichie/index.html"
+   }
+  }  
+{
+  "name":"Toni Morrison",
+   "ethnicity":"African American  ",
+   "birthdate":" February 18, 1931",
+   "birth_place":"Lorain, Ohio",
+   "occupation":"Toni Morrison is an American novelist, editor, teacher, and Professor Emeritus at Princeton University. ",
+   "achievements":"Morrison won the Pulitzer Prize and the American Book Award in 1988.Morrison was awarded the Nobel Prize in Literature in 1993. ",
+   "images":[
+      "https://images.gr-assets.com/authors/1494211316p8/3534.jpg "
+   ],
+   "urls":{
+      "wiki":"https://en.wikipedia.org/wiki/Toni_Morrison"
+   }
+  } 
+{
+" name":"Zora Neale Hurston ",
+   "ethnicity":"Scottiish and Dutch ",
+   "birthdate":"January 7, 1891",
+   "birth_place":"Notasulga, Alabama",
+   "death_date":"January 28, 1960",
+   "occupation":"Zora Neale Hurston was an novelist, short story writer, folklorist, and anthropologist  ",
+   "achievements":"Zora has won the awards The Charles MacArthur Award for Outstanding New Musical, Guggenheim Fellowship for Creative Arts, the Anisfield-Wolf Book Award, and the Bethune-Cookman College Award for Education and Human Relations.",
+   "images":[
+      "https://en.wikipedia.org/wiki/Zora_Neale_Hurston#/media/File:Hurston-Zora-Neale-LOC.jpg "
+   ],
+   "urls":{
+      "wiki":"https://en.wikipedia.org/wiki/Zora_Neale_Hurston#Legacy_and_honors"
+   }
+  }
 ]
