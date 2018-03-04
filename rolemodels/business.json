@@ -96,5 +96,39 @@
 			"https://s.blogcdn.com/www.dailyfinance.com/media/2013/02/ursula-burns-604-cs022213.jpg"
 		],
 		"urls": {}
-	}
+	},
+	{
+		"name": "Stephanie Lampkin",
+		"ethnicity": "Afrucan-American",
+		"education": "Stanford University, Massachusetts Institute of Technology",
+		"birth_place": "Washington DC, America",
+		"occupation": "Stephanie Lampkin was coding by the time she was 13, able to gain fluency in the multiple languages of computer science by the time she turned 15. After receiving prestigious degrees from Stanford University in Management Science and Engineering and MIT in Entrepreneurship and Innovation, she still found it difficult to find jobs in Silicon Valley, under the claim that her background was not “technical enough”. Lampkin eventually found a job within Microsoft, where she worked for five years. Lampkin, reflecting upon her struggles of breaking barriers in the technology industry, developed an app called Blendoor. It allows people to apply for jobs strictly through resumes and experience, hiding names and photos from potential employers. The goal of her app is to remove any bias in the job application process.",
+		"achievements": "Lampkin’s app Blendoor has been awarded by SXSW Interactive Awards as the best new way to interact with people and Lampin was named one of the top 10 innovators of 2016 by MVMT50.",
+		"images": [
+			"https://www.forbes.com/sites/clareoconnor/2016/03/03/black-woman-engineer-launches-blind-job-match-app-to-take-bias-out-of-tech-hiring/",
+			"https://www.bizjournals.com/sanfrancisco/news/2017/09/08/upstart-50-inventor-stephanie-lampkin-ceo-and.html",
+			"https://www.technologyreview.com/lists/innovators-under-35/2016/entrepreneur/stephanie-lampkin/"
+		],
+		"urls": {
+			"Lampkin's TED Talk, 'How to Transcend the Lottery of Birth'": "https://www.youtube.com/watch?v=nSfVEZWCaYo",
+			"CNN 15 Questions with Stephanie Lampkin" : "http://money.cnn.com/interactive/technology/15-questions-with-stephanie-lampkin/"
+		}
+},
+ {
+		"name": "Arianna Huffington",
+		"ethnicity": "Greek",
+		“birthdate”: "July 15, 1950",
+		“birth_place”: "Athens, Greece",
+		"education": "University of Cambridge",
+		"occupation": "Arianna Huffington was born in Athens, Greece but moved to Great Britain to study at the University of Cambridge, earning her master's in economics and becoming president of its debate organization, the Cambridge Union. Following her education at Cambridge, Huffington pursued her writing career. She published her first book, The Female Woman, in 1974. Then, in 1980, Huffington began her political work. Following multiple campaigns for office and years of political commentary, Huffington launched her website The Huffington Post in 2005. The site started off as a political and news blog, however since then it has blown to a full-fledged online publication. In 2011, Huffington sold the website to AOL for over $300 million.",
+		"achievements": "Huffington has appeared on the Time magazine's 100 list, the 100 most influential people in the world, and Forbes' rundown of ‘The World's 100 Most Powerful Women’. In 2008, The Observer ranked The Huffington Post as the most powerful blog in the world. Huffington's thirteenth book, Third World America: How Our Politicians Are Abandoning the Middle Class and Betraying the American Dream, and her fourteenth, Thrive: The Third Metric to Redefining Success and Creating a Life of Well-Being, Wisdom, and Wonder, topped off at number one on the New York Times Bestseller list.",
+		"images": [
+			"https://www.makers.com/profiles/591f267d6c3f646439558640",
+			"https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep",
+			"https://www.huffingtonpost.com/author/arianna-huffington"
+		],
+		"urls": {
+			"Arianna Huffington's TED Talk" : "https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep"
+		}
+}
 ]
