@@ -1,67 +1,143 @@
-[  
-  {
-   "name":"J.K. Rowling",
-   "ethnicity":"British",
-   "birthdate":"July 31, 1965",
-   "birth_place":"New York City, New York",
-   "occupation":"J.K. Rowling,who writes under the pen names J. K. Rowling and Robert Galbraith, is a British novelist and screenwriter who wrote the Harry Potter fantasy series. The books have won multiple awards, and sold more than 400 million copies. They have become the best-selling book series in history and been the basis for a series of films, over which Rowling had overall approval on the scripts and was a producer on the final films in the series.",
-   "achievements":"Rowling has received honorary degrees from St Andrews University, the University of Edinburgh, Edinburgh Napier University, the University of Exeter which she attended, the University of Aberdeen and Harvard University, for whom she spoke at the 2008 commencement ceremony. In 2009 Rowling was made a Chevalier de la Légion d'honneur by French President Nicolas Sarkozy. In 2011 Rowling became an honorary Fellow of the Royal College of Physicians of Edinburgh.",
-   "images":[
-      "https://thefreshtoast.com/wp-content/uploads/2017/05/gossip-j-k-rowling-1.jpg",
-      "https://media1.popsugar-assets.com/files/thumbor/RqrXHPElDWkar9Y9UJIBiaRq_6o/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/03/06/007/n/1922283/721ab9b5edea96de_GettyImages-623392352.jpg",  
-      "https://hulshofschmidt.files.wordpress.com/2011/12/jk-rowling-harry-potter.jpg"
-   ],
-   "urls":{
-      "biography":"https://www.biography.com/people/jk-rowling-40998"
-   }
-  },
+[{
+		"name": "J.K. Rowling",
+		"ethnicity": "British",
+		"birthdate": "July 31, 1965",
+		"birth_place": "New York City, New York",
+		"occupation": "J.K. Rowling,who writes under the pen names J. K. Rowling and Robert Galbraith, is a British novelist and screenwriter who wrote the Harry Potter fantasy series. The books have won multiple awards, and sold more than 400 million copies. They have become the best-selling book series in history and been the basis for a series of films, over which Rowling had overall approval on the scripts and was a producer on the final films in the series.",
+		"achievements": "Rowling has received honorary degrees from St Andrews University, the University of Edinburgh, Edinburgh Napier University, the University of Exeter which she attended, the University of Aberdeen and Harvard University, for whom she spoke at the 2008 commencement ceremony. In 2009 Rowling was made a Chevalier de la Légion d'honneur by French President Nicolas Sarkozy. In 2011 Rowling became an honorary Fellow of the Royal College of Physicians of Edinburgh.",
+		"images": [
+			"https://thefreshtoast.com/wp-content/uploads/2017/05/gossip-j-k-rowling-1.jpg",
+			"https://media1.popsugar-assets.com/files/thumbor/RqrXHPElDWkar9Y9UJIBiaRq_6o/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/03/06/007/n/1922283/721ab9b5edea96de_GettyImages-623392352.jpg",
+			"https://hulshofschmidt.files.wordpress.com/2011/12/jk-rowling-harry-potter.jpg"
+		],
+		"urls": {
+			"biography": "https://www.biography.com/people/jk-rowling-40998"
+		}
+	},
 
-  {
-   "name":"Audre Lorde",
-   "ethnicity":"African American",
-   "birthdate":"February 18, 1934 ",
-   "birth_place":"New York City, New York",
-   "occupation":"Audre Lorde was a writer, feminist, womanist, and civil rights activist. As a poet, she is best known for technical mastery and emotional expression, as well as her poems that express anger and outrage at civil and social injustices she observed throughout her life. Her poems and prose largely deal with issues related to civil rights, feminism, and the exploration of black female identity. In relation to non-intersectional feminism in the United States, Lorde famously said, \"Those of us who stand outside the circle of this society's definition of acceptable women; those of us who have been forged in the crucibles of difference -- those of us who are poor, who are lesbians, who are Black, who are older -- know that survival is not an academic skill. It is learning how to take our differences and make them strengths. For the master's tools will never dismantle the master's house. They may allow us temporarily to beat him at his own game, but they will never enable us to bring about genuine change. And this fact is only threatening to those women who still define the master's house as their only source of support.",
-   "achievements":"Audre Lorde was awarded the American Award and the Lambda Literary award for Lesbian Poetry. The American Book Award is an American literary award that annually recognizes a set of books and people for \"outstanding literary achievement.\" She was given the Literary award for Lesbian Poetry for the amazing poems that she wrote and books she has written pertaining to LGBT.",
-   "images":[
-      "https://1.bp.blogspot.com/--UJxxUoBMRg/UaewOWat6UI/AAAAAAAAAYY/Sw6QCuxoWAw/s1600/Audre+Lorde.jpg",
-      "https://flavorwire.files.wordpress.com/2014/02/audre-lorde-portrait.jpg"
-   ],
-   "urls":{
-      "biography":"https://alp.org/about/audre%22"
-   }
-  },
+	{
+		"name": "Audre Lorde",
+		"ethnicity": "African American",
+		"birthdate": "February 18, 1934 ",
+		"birth_place": "New York City, New York",
+		"deceased_on": "November 17, 1992",
+		"occupation": "Audre Lorde was a writer, feminist, womanist, and civil rights activist. As a poet, she is best known for technical mastery and emotional expression, as well as her poems that express anger and outrage at civil and social injustices she observed throughout her life. Her poems and prose largely deal with issues related to civil rights, feminism, and the exploration of black female identity. In relation to non-intersectional feminism in the United States, Lorde famously said, \"Those of us who stand outside the circle of this society's definition of acceptable women; those of us who have been forged in the crucibles of difference -- those of us who are poor, who are lesbians, who are Black, who are older -- know that survival is not an academic skill. It is learning how to take our differences and make them strengths. For the master's tools will never dismantle the master's house. They may allow us temporarily to beat him at his own game, but they will never enable us to bring about genuine change. And this fact is only threatening to those women who still define the master's house as their only source of support.",
+		"achievements": "Audre Lorde was awarded the American Award and the Lambda Literary award for Lesbian Poetry. The American Book Award is an American literary award that annually recognizes a set of books and people for \"outstanding literary achievement.\" She was given the Literary award for Lesbian Poetry for the amazing poems that she wrote and books she has written pertaining to LGBT.",
+		"images": [
+			"https://flavorwire.files.wordpress.com/2014/02/audre-lorde-portrait.jpg"
+		],
+		"urls": {
+			"biography": "https://alp.org/about/audre%22"
+		}
+	},
 
-  {
-   "name":"Tarereh Mafi",
-   "ethnicity":"Iranian American",
-   "birthdate":"November 9, 1988",
-   "birth_place":"Connecticut, USA",
-   "occupation":"Tahereh Mafi the author of the New York Times bestselling trilogy, Shatter Me. She was the youngest child with four older brothers in a small city somewhere in Connecticut. She currently resides in Orange County, California. Mafi graduated from a tiny liberal arts college two miles from the shores of Laguna Beach, has varying levels of competency in eight different languages, and spent a semester abroad in Barcelona, Spain, where she had the opportunity to study Spanish literature in its native form. Millions of eyes are waiting for the next Tahereh Mafi new series of novels that would be just as loved as Shatter Me. Nothing can be definitely said about Tahereh Mafi upcoming books, but indeed, Tahereh Mafi literary agent will do as good a job as he did previously.",
-   "achievements":"Till date, she has written 5 novels all of which account as top 5 books by Tahereh Mafi, given their genre of writing. When translated in Polish, Shatter Me series are better named as Tahereh Mafi Dar Julli and is loved by readers all over the globe. One can easily find Tahereh Mafi book list on the web, but there is nothing better than seeing her in person at Tahereh Mafi book signing ceremonies. But to confront the truth, Tahereh Mafi tour dates aren’t released until the end time, and it always comes as a surprise to her fans. How much her fans love her can be visibly seen at Tahereh Mafi twitter profile which was flooded with fan messages on Tahereh Mafi Ignite Me release date (4th February, 2014). Millions of eyes are waiting for the next Tahereh Mafi new series of novels that would be just as loved as Shatter Me. Nothing can be definitely said about Tahereh Mafi upcoming books, but indeed, Tahereh Mafi literary agent will do as good a job as he did previously. Rest, response of the new books can be followed on Tahereh Mafi website quite easily.",
-   "images":[
-      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/Authors/TaherehMafi.jpg",
-      "http://www.teenlibrariantoolbox.com/files/2014/11/mafi.png"
-   ],
-   "urls":{
-      "biography":"http://www.epicreads.com/authors/tahereh-mafi/386/"
-   }
-  },
+	{
+		"name": "Isabel Allende ",
+		"ethnicity": " Chilean",
+		"birthdate": "August 2, 1942",
+		"birth_place": "Lima Peru ",
+		"occupation": "Allende is an author who is dubbed to be the world's most widely read Spanish-language author.",
+		"achievements": "Allende had earned many awards due to her books. ",
+		"images": [
+			" https://literary-arts.org/wp-content/uploads/2015/05/allende.jpeg"
+		],
+		"urls": {
+			"biography": "https://www.isabelallende.com/"
+		}
+	}, {
+		"name": " Alice Walker",
+		"ethnicity": "  African American",
+		"birthdate": "February 9, 1944",
+		"birth_place": " Putman Country, Georgia ",
+		"occupation": "Alice Malsenior Walker is an American novelist, short story writer, poet, and activist.",
+		"achievements": "Walker has won the Pulitzer Prize for Fiction, Guggenheim Fellowship for Creative Arts,and the National Book Award for Fiction.",
+		"images": [
+			"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTE4MDAzNDEwNzE1MDUxNTM0/alice-walker-9521939-2-402.jpg"
+		],
+		"urls": {
+			"biography": "https://www.britannica.com/biography/Alice-Walker"
+		}
+	}, {
+		"name": "Tarereh Mafi",
 
-  {
-   "name":"Sabaa Tahir",
-   "ethnicity":"Pakistani-American",
-   "birthdate":"May 27, 1983",
-   "birth_place":"New York City, New York",
-   "occupation":"Sabaa Tahir is a young-adult fiction writer, who is best known for her 2015 New York Times bestselling novel An Ember in the Ashes, as well as her 2016 novel A Torch Against the night. Tahir's first novel, An Ember in the Ashes was published on April 28, 2015. The story takes place in an ancient fantasy world where a teenage girl is fighting to save her brother from prison, and a soldier battles to free himself from the regime. The novel instantly jumped to being a New York Bestseller where it held the number two spot. Amazon ranked it the best book for May, the best young adult book for 2015, and the fourth best book overall. It was ranked by Goodreads for a 4.3 out of 5 and Barnes & Noble as a 4.6 out of 5. Tahir sold the film rights to Paramount Pictures before the book was released, and it is now slated to be produced by Mark Johnson (The Chronicles of Narnia, The Notebook, Breaking Bad) and Haroon Saleem.",
-   "achievements":"The creation of her books Ember in the Ashes and Torch Against the Night.",
-   "images":[
-      "https://rolemodelsgwc.github.io/THETRUTHBEHINDUS.html/sabaa2.jpg",
-      "https://www.mercurynews.com/wp-content/uploads/2016/08/20150429__CCT-EMBER-0503-011.jpg?w=620"
-   ],
-   "urls":{
-      "wikipedia":"https://en.wikipedia.org/wiki/Sabaa_Tahir",
-      "biography":"http://www.webbiography.com/biographies/sabaa-tahir"
-   }
-  }
+		"ethnicity": " Iranian American",
+		"birthdate": " November 9, 1988",
+		"birth_place": "Connecticut",
+		"occupation": "Tahereh Mafi the author of the New York Times bestselling trilogy,The Shatter Me series and Futhermore novel ",
+		"achievements": "Mafi has written five books so far, all recieving world-wide fame for her narrations of the stories. ",
+		"images": [
+			"https://pbs.twimg.com/profile_images/969042655509282816/QFCYZASH_400x400.jpg",
+			"https://images.gr-assets.com/authors/1444252799p8/4637539.jpg "
+		],
+		"urls": {
+			"biography": "www.taherehbooks.com/"
+		}
+	}, {
+		"name": "Renee Ahdieh ",
+		"ethnicity": "South- Korean ",
+		"birthdate": "Unknown",
+		"birth_place": "Unknown",
+		"occupation": "Ahdieh is an South-Korean author, mainly known for her young adult retelling duologies: The Wrath and The Dawn and the Flame in the Mist ",
+		"achievements": "The creation of  her books The Wrath and The Dawn, The Rose and The Dagger, and The Flame in The Mist",
+		"images": [
+			"https://images.gr-assets.com/authors/1487663209p8/4600197.jpg "
+
+		],
+		"urls": {
+			"biography": "http://www.reneeahdieh.com"
+		}
+	}, {
+		"name": "Sabaa Tahir ",
+		"ethnicity": "Pakistani- American",
+		"birthdate": "Unknown",
+		"birth_place": "New York City",
+		"occupation": " Sabaa Tahir is a young-adult fiction writer, who is best known for her latest series: An Ember in the Ashes. ",
+		"achievements": "The creation of  her books Ember in the Ashes and Torch Against the Night ",
+		"images": [
+			" https://images.gr-assets.com/authors/1390501945p8/7770873.jpg"
+		],
+		"urls": {
+			"biography": "http://www.teenreads.com/authors/sabaa-tahir"
+		}
+	}, {
+		"name": "Chimamanda Ngozi Adichie ",
+		"ethnicity": "Nigerian ",
+		"birthdate": "September 15, 1977 ",
+		"birth_place": "Enugu, Nigeria",
+		"occupation": "Chimamanda Ngozi Adichie is an author, well known for her ",
+		"achievements": "She was awarded a MacArthur Genius Grant.",
+		"images": [
+			"https://cdn.vox-cdn.com/thumbor/amIbDTg-TOPlyIsNSnZFEU5SL6I=/0x0:2000x1500/1320x743/filters:focal(909x335:1229x655):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/51961413/No7_Chimamanda_Campaign_Image.0.1479851259.jpeg"
+		],
+		"urls": {
+			"biography": "http://www.cerep.ulg.ac.be/adichie/index.html"
+		}
+	}, {
+		"name": "Toni Morrison",
+		"ethnicity": "African American  ",
+		"birthdate": " February 18, 1931",
+		"birth_place": "Lorain, Ohio",
+		"occupation": "Toni Morrison is an American novelist, editor, teacher, and Professor Emeritus at Princeton University. ",
+		"achievements": "Morrison won the Pulitzer Prize and the American Book Award in 1988.Morrison was awarded the Nobel Prize in Literature in 1993. ",
+		"images": [
+			"https://images.gr-assets.com/authors/1494211316p8/3534.jpg "
+		],
+		"urls": {
+			"wiki": "https://en.wikipedia.org/wiki/Toni_Morrison"
+		}
+	}, {
+		" name": "Zora Neale Hurston ",
+		"ethnicity": "Scottiish and Dutch ",
+		"birthdate": "January 7, 1891",
+		"birth_place": "Notasulga, Alabama",
+		"death_date": "January 28, 1960",
+		"occupation": "Zora Neale Hurston was an novelist, short story writer, folklorist, and anthropologist  ",
+		"achievements": "Zora has won the awards The Charles MacArthur Award for Outstanding New Musical, Guggenheim Fellowship for Creative Arts, the Anisfield-Wolf Book Award, and the Bethune-Cookman College Award for Education and Human Relations.",
+		"images": [
+			"https://en.wikipedia.org/wiki/Zora_Neale_Hurston#/media/File:Hurston-Zora-Neale-LOC.jpg "
+		],
+		"urls": {
+			"wiki": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston#Legacy_and_honors"
+		}
+	}
 ]
