@@ -89,7 +89,232 @@
    "urls":{
       "imdb":"http://www.imdb.com/name/nm0680983/",
       "wikipedia":"https://en.wikipedia.org/wiki/Ellen_Page"
+     
    }
+  },
+    {
+    "name":"Selena Quintanilla"
+    "ethnicity":"Mexican, Possibly Cherokee, and Native American"
+    "birthdate":"April 16, 1971"
+    "birth_place":"Lake Jackson, Texas, U.S"
+    "occupation":"Selena was known as the “Queen of Tejano,” She was a beloved Latina recording artist that was most popular in the 1980s-90s, before her death in 1995. She was also referred to “Mexican Madonna,” because of her style of clothing and her skilled dance moves. Selena started dancing as a young child. Her first career started within her family band at the age of 10. The name of the band was “Selena Y Los Dinos.” Her father, Abraham produced the band. They played in different parts of Texas."
+    "achievements":"As one of her golden awards, Selena was voted “Best Female Vocalist of the year,” and “Performer of the Year.” Her album “Ven Conmigo,” sold 500,000 copies in the year 1990 achieving the first golden awards status."
+    "images":[
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/entertainment/selenaquintanilla.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/selena.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/selenasing.jpg",
+    ],
+    "urls":{
+       "https://www.biography.com/people/selena-189149",
+       "http://www.notablebiographies.com/Sc-St/Selena.html"
+       "http://www.selenaforever.com/Selenamusic/selena_biography.html"
+   }
+  },
+  {
+    "name":"Ellen DeGeneres"
+    "ethnicity":" American"
+    "birthdate":"January 26, 1958"
+    "birth_place":"Metairie, Louisiana, U.S."
+    "occupation":"Ellen DeGeneres is an American tv host, comedian , writer, and producer. She had starred in a popular sitcom called Ellen from the years 1994-1998. She had appeared in the famous childhood movies Finding Nemo and Finding Dory."
+    "achievements":"Ellen DeGeneres has accomplished many achievements throughout her career. She has earned the the Presidential award of Freedom, Teen Choice Awards for Comedy, People’s Award for Favorite Comedian, and etc."
+    "images":[
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/ellen.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/entertainment/ellendeGeneres.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/ellendegen.jpg",
+}
+  },
+  {
+    "name":"Rita Moreno"
+    "ethnicity":"Puerto Rican"
+    "birthdate":"December 11, 1931"
+    "birth_place":"Humacao, Puerto Rico"
+    "occupation":"Rita Moreno is an american actress, singer, and dancer in her career. She appeared in the famous movie, West Side Story in the year 1961. She has been active in her career for over 70 years. She also had a supporting role in the movie King and I, and the famous tv show the Electric Company on the Pbs Kids channel from 1971-1977."
+    "achievement":"Moreno had gained recognition through her dancing, singing , and acting career. Moreno had gained two awards for West Side Story, the Golden Award and Academy for Best Supporting actress. She also gained Grammy and Emmy awards such as the award for Best album for Children (The Electric Company) and Emmy award for Individual Performance in a Variety or Music Program."
+    "images":[
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/Rita.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/rita2.jpg",
+       "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/ritaoscar.jpg"
+    ],
+    "urls":{
+      "https://www.biography.com/people/rita-moreno-189133",
+      "https://www.britannica.com/biography/Rita-Moreno",
+      "http://www.imdb.com/name/nm0001549/bio/"
   }
-
-]
+},
+{
+  "name":"Emma Watson"
+  "ethnicity":"English"
+  "birthdate":"April 15, 1990"
+  "birth_place":"Paris, France"
+  "occupation":"Emma Charlotte Duerre Watson is a British actress, model, and activist. Born in Paris and brought up in Oxfordshire, Watson attended the Dragon School and trained as an actress at the Oxford branch of Stagecoach Theatre Arts."
+  "achievement":"Emma has won the award MTV Movie and TV award first gender-neutral award for Best Actor in Movie in May 2017."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/emma.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/emact.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/emwin.jpg"
+  ],
+  "urls":{
+    "http://www.imdb.com/name/nm0914612/",
+    "https://www.biography.com/people/emma-watson-20660247",
+    "https://en.wikipedia.org/wiki/Emma_Watson"
+  }
+},
+{
+  "name":"Ava Duvernay"
+  "ethnicity":"African American"
+  "birthdate":"August 24, 1972"
+  "birth_place":"Long Beach, CA"
+  "occupation":"Ava DuVernay is an American director, screenwriter, film marketer, and film distributor."
+  "achievement":"DuVernay won the Best Director Prize for her second feature film Middle of Nowhere, becoming the first African-American woman to win the award. For her work in Selma (2014), DuVernay was the first black female director to be nominated for a Golden Globe Award.With Selma, she was also the first black female director to have her film nominated for the Academy Award for Best Picture. In 2017, she was nominated for the Academy Award for Best Documentary Feature for her film 13th (2016). DuVernay's next film, A Wrinkle in Time, reportedly has a budget exceeding $100 million, making DuVernay the first black woman to direct a live-action film with a budget of that size."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/AVA.jpg"
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/avad.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/avaa.jpg"
+  ],
+  "urls":{
+    "https://www.biography.com/people/ava-duvernay",
+    "https://en.wikipedia.org/wiki/Ava_DuVernay",
+    "http://www.avaduvernay.com/"
+   }
+},
+{
+  "name":"Lucille Ball"
+  "ethnicity":"American"
+  "birthdate":"August 6, 1911"
+  "birth_place":"Jamestown, NY"
+  "occupation":"Lucille Désirée Ball was an American actress, comedienne, model, film-studio executive, and producer. She was best known as the star of the self-produced sitcoms I Love Lucy, The Lucy–Desi Comedy Hour, The Lucy Show, Here's Lucy, and Life with Lucy."
+  "achievement":"Lucille Ball had won the awards Kennedy Center Honors, Presidential Medal of Freedom,Golden Globe Cecil B. DeMille Award, Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,TV Land Legacy of Laughter Award, TCA Career Achievement Award, Primetime Emmy Award for Best Actress - Continuing Performance, and the Golden Globe Award for Television Achievement"
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/lucielleball.jpg"
+  ],
+  "urls":{
+    "https://www.biography.com/people/ava-duvernay",
+    "https://en.wikipedia.org/wiki/Ava_DuVernay",
+    "http://www.avaduvernay.com/",
+   }
+ },
+ {
+   "name":"Margaret Cho"
+   "ethnicity":"Korean- American"
+   "birthdate":"December 5, 1968"
+   "birth_place":"San Francisco, CA"
+   "occupation":"Margaret Moran Cho is an American stand-up comedian, actress, fashion designer, author, and singer-songwriter. Cho is best known for her stand-up routines, through which she critiques social and political problems, especially regarding race and sexuality."
+   "achievements":"Cho has won the awards Funniest Female Stand-Up Comic in 1994."
+   "images":[
+      "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/entertainment/margaret%20cho.jpg",
+      "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/margaretcho.jpg
+   ],
+   "urls":{
+     "https://en.wikipedia.org/wiki/Margaret_Cho"
+   }
+ },
+{
+  "name":"Julia Child"
+  "ethnicity":"American"
+  "birthdate":"August 15, 1912"
+  "birth_place":"Pasadena, Californa"
+  "Died on":"August 13, 2004"
+  "occupation":"Julia Carolyn Child was an American chef, author and television personality. She is recognized for bringing French cuisine to the American public with her debut cookbook, Mastering the Art of French Cooking, and her subsequent television programs, the most notable of which was The French Chef, which premiered in 1963."
+  "achievements":"Julia recieved various awards within her time of fame.(1964)George Foster Peabody Award, an award for distinguished achievement in television for The French Chef(1966)Primetime Emmy® Award, Achievement in Educational Television, Instructor and Hostess, The French Chef, National Academy of Television Arts and Sciences. (1967)L’Ordre National du Mérite Agricole (Established in 1883, The National Order of Agricultural Merit is awarded by the French government in recognition of those individuals who have made significant contributions to the development and progress of agriculture in France."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/juliachild.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/juli.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/juliaa.jpg"
+   ],
+   "urls":{
+     "http://juliachildfoundation.org/",
+     "http://www.pbs.org/food/chefs/julia-child/",
+     "https://en.wikipedia.org/wiki/Julia_Child"
+   }
+ },
+{
+  "name":"Oprah Winfrey"
+  "ethnicity":"African American, (including Kpelle, Bamileke, and Zambian)"
+  "birthdate":"January 29, 1954"
+  "birth_place":"Kosciusko, Mississippi, U.S."
+  "occupation":"Oprah Winfrey is a billionaire known for hosting her own talk show from the years 1986 to 2011. Oprah also had the occupation as being an actress, philanthropist, publisher and producer. In 1976 Oprah moved to Baltimore, Maryland where she posted the Tv show “People are Talking.” This continued on eight years. After this show finished, Oprah moved to Chicago and started her own talk show called “Chicago A.M.” She later produced her own tv show “The Oprah Winfrey Show,” in the year 1986. The show was a major success appearing on over 120 channels, gaining partial control on ABC."
+  "achievements":"Winfrey has achieved many accomplishments pertaining to her tv show. She was nominated for an Academy Award for Best Supporting Actress and a Golden Globe Award in the same category for her 1986 role in The Color Purple. She earned Emmy awards and People’s Choice awards, the list goes on and on as she continues through her career."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/entertainment/oprahwinfrey.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/oprah2.jpg"
+  ],
+  "urls":{
+    "https://www.biography.com/people/oprah-winfrey-9534419",
+    "https://www.amazon.com/Oprah-Biography-Kitty-Kelley/dp/0307394875/ref=sr_1_1?ie=UTF8&qid=1502376501&sr=8-1&keywords=oprah+biography",
+    "http://www.oprah.com/index.html"
+  }
+},
+{
+  "name":"Patty Jenkins"
+  "ethnicity":"American"
+  "birthdate":"July 24, 1971"
+  "birth_place":"George Air Force Base, Victorville, CA"
+  "occupation":"Patricia Lea Jenkins is an American film director and screenwriter. She is known for directing Monster and Wonder Woman."
+  "achievements":"Patty was a member of the 'Academy of Motion Picture Arts and Sciences' (AMPAS) since 2016.Wonder Woman opened to critical and commercial acclaim as the biggest box-office opening for a female director ever."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/pattt.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/pattyjenkins.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/pat.jpg"
+  ],
+  "urls":{
+    "http://www.imdb.com/name/nm0420941/",
+    "https://en.wikipedia.org/wiki/Patty_Jenkins",
+    "http://variety.com/exec/patty-jenkins/"
+  }
+},
+{
+  "name":"Tracy Chapman"
+  "ethnicity":"African American"
+  "birthdate":"March 30, 1964"
+  "birth_place":"Cleveland, Ohio, U.S."
+  "occupation":"Tracy Chapman is an American singer-songwriter, known for her hits "Fast Car" and "Give Me One Reason", along with other singles "Talkin' 'bout a Revolution", "Baby Can I Hold You", and "Crossroads”.
+  "achievements":"Tracy was honored with three Grammy awards in the beginning of her career. Her first studio album ‘Tracy Chapman’ released in 1989 won 3 Grammys in the categories of: Best New Artist, Best Female Pop Vocal Performer and Best Contemporary Folk Album. She received her fourth Grammy award in 1997 for her album ‘New Beginning’, in the category for the Best Rock Song, for the song ‘Give Me One Reason’. Alongside the award, she received many other Grammy nominations for the same album."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/trac.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/tracychapman.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/chap.jpg"
+   ],
+   "urls":{
+     "https://www.allmusic.com/artist/tracy-chapman-mn0000016281",
+     "https://www.rollingstone.com/music/artists/tracy-chapman",
+     "https://en.wikipedia.org/wiki/Tracy_Chapman"
+   }
+ },
+{
+  "name":"Clare Balding"
+  "ethnicity":"English"
+  "birthdate":"January 29, 1971"
+  "birth_place":""
+  "education":"Brown Univeristy"
+  "occupation":"Clare Balding is an is an award-winning broadcaster, journalist and author. She currently presents for BBC Sport,Channel 4, BT Sport and the religious/spiritual programme Good Morning Sunday on BBC Radio 2 and radio 4. In June 1995, she made her debut as a television presenter, introducing highlights of Royal Ascot. The following year she began presenting live, and in December 1997 she became the BBC's lead horse racing presenter after the retirement of Julian Wilson, and has fronted coverage of the Grand National."
+  "achievements":"Balding was appointed Officer of the British Empire (OBE) in the 2013 Birthday Honors for services to broadcasting and journalism."
+  "images":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/calre.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/claree.png",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/clare.jpg"
+   ],
+   "urls":{
+     "http://www.clarebalding.co.uk/",
+     "https://www.theguardian.com/tv-and-radio/clare-balding",
+     "https://en.wikipedia.org/wiki/Clare_Balding"
+   }
+},
+{
+  "name":"Dolores Del Rio
+  "ethnicity":"Puerto Rican"
+  "birthdate":"December 11, 1931"
+  "birth_place":"Humacao, Puerto Rico"
+  "died_on":"April 11, 1983"
+  "occupation":"Dolores Del Rio was a Mexican actress who was the first major female Latin America crossover star in Hollywood with a career in American films in the 1920s and 1930s. She was also considered one of the more important female figures of the Golden Age of Mexican cinema in the 1940s and 1950s. She was known for her beautiful face within the cinema during her time. Rio’s career mostly focused on spanned silent film, sound film, television, stage and radio."
+  "achievements":"Dolores del Río was a Mexican actress who was the first major female Latin American crossover star in Hollywood,with a career in American films in the 1920s and 1930s. She was also considered one of the more important female figures of the Golden Age of Mexican cinema in the 1940s and 1950s. Del Río is remembered as one of the most beautiful faces of the cinema in her time.Her long and varied career spanned silent film, sound film, television, stage and radio."
+  "image":[
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/Dolores.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/dol2.jpg",
+     "https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/dolo.jpg"
+    ],
+    "urls":{
+      "http://www.imdb.com/name/nm0003123/",
+      "https://en.wikipedia.org/wiki/Dolores_del_R%C3%ADo"
+    }
+ },
+ {
